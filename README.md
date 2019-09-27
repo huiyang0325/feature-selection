@@ -39,10 +39,6 @@ F值就是组间差距和组内差距的比值，这个F值越大意味着某个
 python ANOVA.py -i test.csv -o result.anova
 ```
 
-**算法参考** 
-
-`[1] Lin, H. et al. Predicting cancerlectins by the optimal g-gap dipeptides. Scientific reports 5, doi:10.1038/srep16964 (2015)` 
-
 
 
 ## F-Score
@@ -77,10 +73,6 @@ F-Score 是度量特征在不同类别间的区分度的一种指标， F-Score�
 ```
 python ./fselect.py training_file [testing_file]
 ```
-
-**算法参考** 
-
-`[1] Lin, H. et al. Predicting cancerlectins by the optimal g-gap dipeptides. Scientific reports 5, doi:10.1038/srep16964 (2015)` 
 
 
 
@@ -156,5 +148,3 @@ feature.csv  排序后的特征文件【csv格式】
 > ```
 > python BinomialDistribution.py [-m MaxC/MinI][-s sortedRank.file] pathOfFasta.txt feature.csv
 > ```
-
-**算法参考** 
