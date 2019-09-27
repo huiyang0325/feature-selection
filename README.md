@@ -111,9 +111,7 @@ $$
 
 
 
-![P_{ij}=\frac{m_{ij}}{M_{j}}](http://latex.codecogs.com/gif.latex?P_%7Bij%7D%3D%5Cfrac%7Bm_%7Bij%7D%7D%7BM_%7Bj%7D%7D)
-
-​                                          
+![P_{ij}=\frac{m_{ij}}{M_{j}}](http://latex.codecogs.com/gif.latex?P_%7Bij%7D%3D%5Cfrac%7Bm_%7Bij%7D%7D%7BM_%7Bj%7D%7D)​                          
 
 ​                                                                            ![CL_{ij}=1-P(n_{ij})](http://latex.codecogs.com/gif.latex?CL_%7Bij%7D%3D1-P%28n_%7Bij%7D%29)
 
